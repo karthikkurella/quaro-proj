@@ -4,7 +4,8 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
    Credits: Kaggle
 ### Problem Statement :
 Identify which questions asked on Quora are duplicates of questions that have already been asked.
-
+### OUTPUT
+![Screenshot](ss/wordcloud.png.jpg)
 ### Real world/Business Objectives and Constraints :
    - The cost of a mis-classification can be very high.
    - You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
